@@ -1,0 +1,25 @@
+{
+    "name": "react-stopwatch",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [
+        "localstorage",
+        "react"
+    ],
+    "author": "Nomaan Shaikh",
+    "main": "src/index.js",
+    "dependencies": {
+        "react": "^16.14.0",
+        "react-bootstrap": "^2.5.0",
+        "react-dom": "^16.14.0",
+        "react-particles": "^2.3.3",
+        "react-scripts": "1.1.4",
+        "reactstrap": "^9.1.4"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}
